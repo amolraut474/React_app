@@ -1,0 +1,49 @@
+.icon-box {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .section-1 .navbar-collapse {
+    flex-basis: 40% !important;
+    flex-grow: 0;
+  }
+  
+  .Announcement-bar h2 {
+    text-transform: capitalize;
+    font-size: 14px;
+    color: #292b2c;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  section.Announcement-bar {
+    padding: 8px 0px 0px 0px;
+    border-bottom: 1px solid #eeeeee;
+  }
+  
+  .Ann-icon {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .Ann-icon i.bi.bi-person-add {
+    font-size: 17px;
+  }
+  
+  .icon-box i {
+    font-size: 20px;
+    color: #525655;
+  }
+  
+  a.nav-link.active {
+    color: #ff324d !important;
+  }
+  
+  a.nav-link {
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #292b2c;
+    margin: 0px 4px;
+  }
