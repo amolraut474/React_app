@@ -1,6 +1,11 @@
+import ProductList from '../components/Product_Com/ProductList';
+import ProductApp from'../components/P_Com/ProductApp';
 function Shop() {
     return <>
-        <h1>Shop</h1>
+      <ProductApp/>
+    <ProductList/>
+    
+   
 
 
     </>

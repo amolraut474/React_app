@@ -1,6 +1,8 @@
+
+import ProductList from '../components/Product_Com/ProductList';
 function Products() {
     return <>
-        <h1>Pages</h1>
+     <ProductList/>
 
 
     </>
