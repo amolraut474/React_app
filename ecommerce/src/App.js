@@ -28,7 +28,7 @@ function App() {
   <Route path="/" exact component={<ProductList/>}/>
   <Route path="/Products/:productId" element={<ProductDynamic/>}/>
 </Routes>
-
+<Home/>
 <footer><Footer/></footer>
 </div>
 
