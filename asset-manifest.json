@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "/React_app/static/css/main.6b7ea34f.css",
-    "main.js": "/React_app/static/js/main.9b21f898.js",
+    "main.css": "/React_app/static/css/main.0edaa12f.css",
+    "main.js": "/React_app/static/js/main.e2634d20.js",
+    "static/media/854x491.jpg": "/React_app/static/media/854x491.c5215ed015ffe9f5c52e.jpg",
+    "static/media/9-1170x672.webp": "/React_app/static/media/9-1170x672.da8b4f859d79e35d5bbd.webp",
+    "static/media/banner9.jpg": "/React_app/static/media/banner9.7a3935e82c3f71be543d.jpg",
+    "static/media/6-870x500.webp": "/React_app/static/media/6-870x500.2f15cb4b68feea11b7f2.webp",
+    "static/media/banner8.jpg": "/React_app/static/media/banner8.0b7b88a86864f6dca3e5.jpg",
+    "static/media/banner7.jpg": "/React_app/static/media/banner7.9852b3a208459387258e.jpg",
+    "static/media/furniture_banner2.jpg": "/React_app/static/media/furniture_banner2.309b8ea3533a3034e352.jpg",
+    "static/media/furniture_banner1.jpg": "/React_app/static/media/furniture_banner1.900934871828d756b909.jpg",
+    "static/media/furniture_img7.jpg": "/React_app/static/media/furniture_img7.00e42ee8d750bbb09eb6.jpg",
+    "static/media/furniture_img5.jpg": "/React_app/static/media/furniture_img5.17221c109a1bf1316ff2.jpg",
+    "static/media/furniture_img4.jpg": "/React_app/static/media/furniture_img4.19367232c1c72a4f11d3.jpg",
+    "static/media/furniture_img2.jpg": "/React_app/static/media/furniture_img2.ab852a8f4f43f080190c.jpg",
+    "static/media/furniture_img3.jpg": "/React_app/static/media/furniture_img3.15cc9a2365a7f1c340ab.jpg",
+    "static/media/furniture_img6.jpg": "/React_app/static/media/furniture_img6.2d33e592cdacfbd45543.jpg",
+    "static/media/furniture_img8.jpg": "/React_app/static/media/furniture_img8.0c1160c9b746f6535775.jpg",
     "static/media/slick.svg": "/React_app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/React_app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/React_app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/React_app/index.html",
     "static/media/slick.woff": "/React_app/static/media/slick.295183786cd8a1389865.woff",
-    "main.6b7ea34f.css.map": "/React_app/static/css/main.6b7ea34f.css.map",
-    "main.9b21f898.js.map": "/React_app/static/js/main.9b21f898.js.map"
+    "main.0edaa12f.css.map": "/React_app/static/css/main.0edaa12f.css.map",
+    "main.e2634d20.js.map": "/React_app/static/js/main.e2634d20.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b7ea34f.css",
-    "static/js/main.9b21f898.js"
+    "static/css/main.0edaa12f.css",
+    "static/js/main.e2634d20.js"
   ]
 }
